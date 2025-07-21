@@ -1,5 +1,8 @@
 # Gemini Logs
 
+> [!NOTE]
+> You can find the official releases in the [release page](https://github.com/D4-CTM/GeminiCli_logs/releases/tag/Releases)
+
 This tool is used to extract and view Gemini CLI chat logs in a readable format. It's 
 particularly useful for extracting checkpoints of your conversations with the Gemini 
 CLI tool, allowing you to see the code that was written or modified.
