@@ -15,6 +15,8 @@ func getLogsPath() string {
 		log.Panicf("Error: %v", err)
 	}
 
+	const testing_stuff = "just a test"
+
 	return filepath.Join(homeDir, ".gemini/tmp")
 }
 
